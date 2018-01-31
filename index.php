@@ -1,5 +1,5 @@
 <?php 
-	echo "Hello World! teste gIT!"; 
+	echo "Olá planeta!"; 
 ?>
 <!DOCTYPE html>
 <html>
